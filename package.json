@@ -1,5 +1,9 @@
 {
-  "name": "@graphprotocol/graph-cli",
+  "name": "@energyweb/graph-cli",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/energywebfoundation/graph-cli.git"
+  },
   "version": "0.33.0",
   "license": "(Apache-2.0 OR MIT)",
   "description": "CLI for building for and deploying to The Graph",
